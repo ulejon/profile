@@ -39,4 +39,4 @@ fi
 
 cd "${ORIGINAL_PWD}"
 
-PATH=$PATH:~/code/awck.git/
+#PATH=$PATH:~/code/awck.git/
