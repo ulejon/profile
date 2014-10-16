@@ -38,3 +38,6 @@ if ! is_home_dir "${PROFILE_CUSTOM}"; then
 fi
 
 cd "${ORIGINAL_PWD}"
+
+### Added by the Heroku Toolbelt
+export PATH="/usr/local/heroku/bin:$PATH"
